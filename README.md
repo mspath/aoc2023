@@ -12,6 +12,14 @@ I'll attempt to solve them with Kotlin.
 
 help the elves calibrate a trebuchet.
 
+### Day 2 Cube Conundrum
+
+entertain an elf with a game of cubes.
+
+### Day 3 Gear Ratios
+
+help the elves with the engine schematic.
+
 ---
 
 Environment
@@ -25,5 +33,5 @@ Environment
 language: kotlin
 repo: aoc2023
 status: active
-updated: 2023-12-01
+updated: 2023-12-03
 ```

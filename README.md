@@ -20,6 +20,10 @@ entertain an elf with a game of cubes.
 
 help the elves with the engine schematic.
 
+### Day 4 Scratchcards
+
+help the elves figure out the logic of their scratchcards.
+
 ---
 
 Environment

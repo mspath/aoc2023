@@ -33,6 +33,10 @@ part 2 throws a curveball, part 1 only.
 
 do some boat race math.
 
+### Day 7 Camel Cards
+
+help an elf passing time be playing Camel Cards
+
 ---
 
 Environment

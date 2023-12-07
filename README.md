@@ -24,6 +24,15 @@ help the elves with the engine schematic.
 
 help the elves figure out the logic of their scratchcards.
 
+### Day 5 If You Give A Seed A Fertilizer
+
+help the elves with their food production logistics.
+part 2 throws a curveball, part 1 only.
+
+### Day 6 Wait For It
+
+do some boat race math.
+
 ---
 
 Environment

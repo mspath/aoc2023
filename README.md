@@ -37,6 +37,10 @@ do some boat race math.
 
 help an elf passing time be playing Camel Cards
 
+### Day 8 Haunted Wasteland
+
+deal with speedy ghosts.
+
 ---
 
 Environment
@@ -50,5 +54,5 @@ Environment
 language: kotlin
 repo: aoc2023
 status: active
-updated: 2023-12-03
+updated: 2023-12-08
 ```

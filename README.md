@@ -41,6 +41,10 @@ help an elf passing time be playing Camel Cards
 
 deal with speedy ghosts.
 
+### Day 9 Mirage Maintenance
+
+analyze your surroundings with an Oasis And Sand Instability Sensor.
+
 ---
 
 Environment

@@ -1,6 +1,7 @@
 package day1
 
 import java.io.File
+import kotlin.time.measureTimedValue
 
 fun main() {
     val input = File("data/day1/input.txt").readLines()
@@ -20,7 +21,7 @@ fun breakfast(input: List<String>) : Int {
 }
 
 fun String.digits(): List<Int> {
-    return (0 until this.length).mapNotNull {index ->
+    return indices.mapNotNull { index ->
         if (this[index].isDigit()) this[index].toString().toInt()
         else if (this.startsWith("one", index)) 1
         else if (this.startsWith("two", index)) 2
@@ -43,4 +44,22 @@ fun lunch(input: List<String>) : Int {
         it.first() * 10 + it.last()
     }
     return result
+}
+
+fun testTrebuchet() {
+    println("running tests for day 1")
+    val input = File("data/day1/input.txt").readLines()
+    check(breakfast(input) == 55172) { "breakfast failed" }
+    check(lunch(input) == 54925) { "lunch failed" }
+    println("2 tests ok")
+}
+
+fun benchmarkCalorieCounting() {
+    println("running benchmarks for day 1")
+    val input = File("data/day1/input.txt").readLines()
+    val (_, durationBreakfast) = measureTimedValue { breakfast(input) }
+    println("breakfast duration: $durationBreakfast")
+    val (_, durationLunch) = measureTimedValue { lunch(input) }
+    println("lunch duration: $durationLunch")
+    println("---")
 }

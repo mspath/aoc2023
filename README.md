@@ -45,6 +45,11 @@ deal with speedy ghosts.
 
 analyze your surroundings with an Oasis And Sand Instability Sensor.
 
+### Day 10 Pipe Maze
+
+keep your distance of an unknown animal in a system of pipes.
+part 1 only.
+
 ---
 
 Environment
@@ -58,5 +63,5 @@ Environment
 language: kotlin
 repo: aoc2023
 status: active
-updated: 2023-12-08
+updated: 2023-12-10
 ```

@@ -52,14 +52,19 @@ part 1 only.
 
 ### Day 11 Cosmic Expansion
 
-tbd
+calculate the shortest path between galaxies in an expanding spacetime continuum.
+
+### Day 12 Hot Springs
+
+interpret damaged (and folded) condition records of hot springs.
+part 1 only.
 
 ---
 
 Environment
 
-- Kotlin 1.9.20
-- Intellij 2023.3
+- Kotlin 1.9.21
+- Intellij 2023.3.1
 
 ---
 
@@ -67,5 +72,5 @@ Environment
 language: kotlin
 repo: aoc2023
 status: active
-updated: 2023-12-11
+updated: 2023-12-12
 ```

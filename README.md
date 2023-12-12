@@ -50,12 +50,16 @@ analyze your surroundings with an Oasis And Sand Instability Sensor.
 keep your distance of an unknown animal in a system of pipes.
 part 1 only.
 
+### Day 11 Cosmic Expansion
+
+tbd
+
 ---
 
 Environment
 
 - Kotlin 1.9.20
-- Intellij 2023.2.5
+- Intellij 2023.3
 
 ---
 
@@ -63,5 +67,5 @@ Environment
 language: kotlin
 repo: aoc2023
 status: active
-updated: 2023-12-10
+updated: 2023-12-11
 ```

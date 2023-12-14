@@ -63,6 +63,10 @@ part 1 only.
 
 navigate through a valley of mirrors and ashes.
 
+### Day 14 Parabolic Reflector Dish
+
+tilt a platform to adjust a parabolic reflector dish.
+
 ---
 
 Environment
@@ -76,5 +80,5 @@ Environment
 language: kotlin
 repo: aoc2023
 status: active
-updated: 2023-12-13
+updated: 2023-12-14
 ```

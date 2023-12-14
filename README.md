@@ -59,6 +59,10 @@ calculate the shortest path between galaxies in an expanding spacetime continuum
 interpret damaged (and folded) condition records of hot springs.
 part 1 only.
 
+### Day 13 Point of Incidence
+
+navigate through a valley of mirrors and ashes.
+
 ---
 
 Environment
@@ -72,5 +76,5 @@ Environment
 language: kotlin
 repo: aoc2023
 status: active
-updated: 2023-12-12
+updated: 2023-12-13
 ```

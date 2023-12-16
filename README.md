@@ -67,6 +67,10 @@ navigate through a valley of mirrors and ashes.
 
 tilt a platform to adjust a parabolic reflector dish.
 
+### Day 15 Lens Library
+
+use hashes and maps.
+
 ---
 
 Environment
@@ -80,5 +84,5 @@ Environment
 language: kotlin
 repo: aoc2023
 status: active
-updated: 2023-12-14
+updated: 2023-12-15
 ```

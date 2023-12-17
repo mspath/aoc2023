@@ -71,6 +71,10 @@ tilt a platform to adjust a parabolic reflector dish.
 
 use hashes and maps.
 
+### Day 16 The Floor Will Be Lava
+
+explore the Lava Production Facility.
+
 ---
 
 Environment
@@ -84,5 +88,5 @@ Environment
 language: kotlin
 repo: aoc2023
 status: active
-updated: 2023-12-15
+updated: 2023-12-16
 ```

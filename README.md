@@ -75,6 +75,10 @@ use hashes and maps.
 
 explore the Lava Production Facility.
 
+### Day 17 Clumsy Crucible
+
+traverse a Lava Pool.
+
 ---
 
 Environment
@@ -88,5 +92,5 @@ Environment
 language: kotlin
 repo: aoc2023
 status: active
-updated: 2023-12-16
+updated: 2023-12-17
 ```

@@ -79,6 +79,11 @@ explore the Lava Production Facility.
 
 traverse a Lava Pool.
 
+### Day 18 Lavaduct Lagoon
+
+help the elves with their lava supply chain.
+still off a bit.
+
 ---
 
 Environment
@@ -92,5 +97,5 @@ Environment
 language: kotlin
 repo: aoc2023
 status: active
-updated: 2023-12-17
+updated: 2023-12-18
 ```

@@ -84,6 +84,12 @@ traverse a Lava Pool.
 help the elves with their lava supply chain.
 still off a bit.
 
+### Day 19 Aplenty
+
+help the elves with their workflows.
+part 1 only.
+
+
 ---
 
 Environment
@@ -97,5 +103,5 @@ Environment
 language: kotlin
 repo: aoc2023
 status: active
-updated: 2023-12-18
+updated: 2023-12-19
 ```

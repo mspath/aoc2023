@@ -89,6 +89,10 @@ still off a bit.
 help the elves with their workflows.
 part 1 only.
 
+###
+
+oh well, the rest remains tbd.
+
 
 ---
 
@@ -103,5 +107,5 @@ Environment
 language: kotlin
 repo: aoc2023
 status: active
-updated: 2023-12-19
+updated: 2023-12-26
 ```

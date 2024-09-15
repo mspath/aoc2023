@@ -98,8 +98,8 @@ oh well, the rest remains tbd.
 
 Environment
 
-- Kotlin 1.9.21
-- Intellij 2023.3.1
+- Kotlin 2.0.0
+- Intellij 2024.2.1
 
 ---
 
@@ -107,5 +107,5 @@ Environment
 language: kotlin
 repo: aoc2023
 status: active
-updated: 2023-12-26
+updated: 2024-09-15
 ```
